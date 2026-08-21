@@ -1,0 +1,28 @@
+campaign_id,campaign_name,channel,region,month,budget,impressions,clicks,leads_generated,cost,notes
+CMP-001,Winter Awareness Search,Search,North,2026-01,1955.0,20000,900,12,1700.0,
+CMP-001,Winter Awareness Search,Search,North,2026-02,2013.65,20600,797,9,1751.0,
+CMP-001,Winter Awareness Search,Search,North,2026-03,2072.3,21200,686,6,1802.0,
+CMP-001,Winter Awareness Search,Search,North,2026-04,2130.95,21800,568,4,1853.0,
+CMP-001,Winter Awareness Search,Search,North,2026-05,2189.6,22400,443,2,1904.0,
+CMP-001,Winter Awareness Search,Search,North,2026-06,2248.25,23000,310,1,1955.0,
+CMP-002,Social Reach Booster,Paid Social,South,2026-01,1488.27,19910,772,8,1294.15,
+CMP-002,Social Reach Booster,Paid Social,South,2026-02,1722.24,23040,23540,9,1497.6,
+CMP-002,Social Reach Booster,Paid Social,South,2026-03,1508.6,20182,815,8,1311.83,
+CMP-002,Social Reach Booster,Paid Social,South,2026-04,1551.96,20762,728,8,1349.53,
+CMP-002,Social Reach Booster,Paid Social,South,2026-05,1545.38,20674,725,8,1343.81,
+CMP-002,Social Reach Booster,Paid Social,South,2026-06,1552.49,20769,795,8,1349.99,
+CMP-003,Email Nurture Series,Email,East,2026-01,810.58,14097,720,11,704.85,
+CMP-003,Email Nurture Series,Email,East,2026-02,862.79,15005,753,10,750.25,
+CMP-003,Email Nurture Series,Email,East,2026-03,862.21,14995,782,11,749.75,
+CMP-003,Email Nurture Series,Email,East,2026-04,942.14,16385,748,11,819.25,
+CMP-003,Email Nurture Series,Email,East,2026-05,923.68,16064,820,12,,
+CMP-003,Email Nurture Series,Email,East,2026-06,868.77,15109,790,12,755.45,
+CMP-004,Partner Referral Program,Referral,West,2026-01,176.58,6142,396,8,153.55,
+CMP-004,Partner Referral Program,Referral,West,2026-02,179.54,6245,388,7,156.12,
+CMP-004,Partner Referral Program,Referral,West,2026-03,165.23,5747,339,6,143.68,
+CMP-004,Partner Referral Program,Referral,West,2026-04,158.73,5521,326,6,138.03,
+CMP-004,Partner Referral Program,Referral,West,2026-05,167.82,5837,365,7,145.93,
+CMP-004,Partner Referral Program,Referral,West,2026-06,164.45,5720,336,7,143.0,
+CMP-005,Premium Retargeting Push,Paid Social,North,2026-03,4113.21,9327,167,10,3917.34,high-cost/low-return placement
+CMP-005,Premium Retargeting Push,Paid Social,North,2026-04,3592.39,8146,146,8,3421.32,high-cost/low-return placement
+CMP-006,Spring Signup Promo,Email,South,2026-04,660.0,12000,840,61,600.0,"limited-time promo, drove April conversion spike"

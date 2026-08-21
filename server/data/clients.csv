@@ -1,0 +1,97 @@
+client_id,lead_id,client_name,region,signup_date,status,last_activity_date
+CL-0001,LD-0001,Summit Outfitters #2,North,2026-01-28,active,2026-06-25
+CL-0002,LD-0002,Summit Outfitters #3,North,2026-01-28,active,2026-06-21
+CL-0003,LD-0005,Willowbrook Traders #4,North,2026-01-26,inactive,2026-02-05
+CL-0004,LD-0006,Fieldstone Supply Co #5,North,2026-01-18,active,2026-06-26
+CL-0005,LD-0007,Maple Street Goods #6,North,2026-01-31,inactive,2026-03-04
+CL-0006,LD-0009,Cedar & Co Supplies #7,North,2026-01-04,active,2026-06-24
+CL-0007,LD-0017,Brightline Retailers #8,North,2026-03-06,active,2026-06-25
+CL-0008,LD-0018,Stonegate Distribution #9,North,2026-02-15,inactive,2026-03-17
+CL-0009,LD-0022,Cedar & Co Supplies #10,North,2026-03-04,active,2026-06-27
+CL-0010,LD-0030,Coastal Ridge Traders #11,North,2026-04-08,active,2026-06-30
+CL-0011,LD-0031,Anchor Point Services #12,North,2026-04-07,active,2026-06-28
+CL-0012,LD-0032,Ironwood Wholesale #13,North,2026-05-28,active,2026-06-28
+CL-0013,LD-0033,Anchor Point Services #14,North,2026-06-02,active,2026-06-29
+CL-0014,LD-0040,Anchor Point Services #15,South,2026-01-16,active,2026-06-21
+CL-0015,LD-0041,Fieldstone Supply Co #16,South,2026-01-25,active,2026-06-27
+CL-0016,LD-0045,Stonegate Distribution #17,South,2026-02-07,inactive,2026-03-16
+CL-0017,LD-0048,Anchor Point Services #18,South,2026-03-02,active,2026-06-25
+CL-0018,LD-0051,Anchor Point Services #19,South,2026-02-09,active,2026-06-29
+CL-0019,LD-0057,Harborview Foods #20,South,2026-04-06,inactive,2026-05-16
+CL-0020,LD-0059,Ironwood Wholesale #21,South,2026-03-27,active,2026-06-26
+CL-0021,LD-0060,Ironwood Wholesale #22,South,2026-04-16,active,2026-06-27
+CL-0022,LD-0068,Willowbrook Traders #23,South,2026-05-31,active,2026-06-21
+CL-0023,LD-0072,Willowbrook Traders #24,South,2026-05-13,active,2026-06-23
+CL-0024,LD-0075,Clearwater Mercantile #25,South,2026-05-29,active,2026-06-28
+CL-0025,LD-0076,Stonegate Distribution #26,South,2026-06-15,active,2026-06-28
+CL-0026,LD-0093,Willowbrook Traders #27,East,2026-01-24,active,2026-06-24
+CL-0027,LD-0102,Stonegate Distribution #28,East,2026-02-19,active,2026-06-23
+CL-0028,LD-0104,Harborview Foods #29,East,2026-02-20,active,2026-06-22
+CL-0029,LD-0107,Willowbrook Traders #30,East,2026-03-06,active,2026-06-24
+CL-0030,LD-0114,Maple Street Goods #31,East,2026-03-05,active,2026-06-24
+CL-0031,LD-0120,Riverside Wholesale #32,East,2026-04-25,inactive,2026-05-05
+CL-0032,LD-0122,Willowbrook Traders #33,East,2026-04-12,inactive,2026-04-23
+CL-0033,LD-0134,Cedar & Co Supplies #34,East,2026-05-18,active,2026-06-27
+CL-0034,LD-0136,Ironwood Wholesale #35,East,2026-05-27,active,2026-06-27
+CL-0035,LD-0137,Anchor Point Services #36,East,2026-05-09,active,2026-06-20
+CL-0036,LD-0141,Fieldstone Supply Co #37,East,2026-06-12,inactive,2026-06-24
+CL-0037,LD-0150,Blue Harbor Retail #38,,2026-06-19,inactive,2026-07-19
+CL-0038,LD-0152,Willowbrook Traders #39,West,2026-01-09,inactive,2026-02-06
+CL-0039,LD-0153,Brightline Retailers #40,West,2026-01-20,active,2026-06-21
+CL-0040,LD-0158,Maple Street Goods #41,West,2026-01-22,active,2026-06-29
+CL-0041,LD-0163,Willowbrook Traders #42,West,2026-02-16,active,2026-06-27
+CL-0042,LD-0165,Blue Harbor Retail #43,West,2026-03-07,active,2026-06-24
+CL-0043,LD-0167,Harborview Foods #44,West,2026-03-30,active,2026-06-21
+CL-0044,LD-0169,Summit Outfitters #45,West,2026-03-30,active,2026-06-21
+CL-0045,LD-0173,Summit Outfitters #46,West,2026-04-30,inactive,2026-05-12
+CL-0046,LD-0193,Ironwood Wholesale #47,North,2026-03-25,active,2026-06-29
+CL-0047,LD-0194,Willowbrook Traders #48,North,2026-03-19,inactive,2026-04-07
+CL-0048,LD-0197,Anchor Point Services #49,North,2026-03-10,inactive,2026-03-27
+CL-0049,LD-0201,Brightline Retailers #50,North,2026-04-03,active,2026-06-23
+CL-0050,LD-0208,Riverside Wholesale #51,North,2026-04-15,active,2026-06-30
+CL-0051,LD-0210,Blue Harbor Retail #52,South,2026-04-19,active,2026-06-21
+CL-0052,LD-0211,Willowbrook Traders #53,South,2026-04-16,active,2026-06-29
+CL-0053,LD-0212,Willowbrook Traders #54,South,2026-04-14,inactive,2026-05-16
+CL-0054,LD-0216,Ironwood Wholesale #55,South,2026-05-03,active,2026-06-28
+CL-0055,LD-0221,Brightline Retailers #56,South,2026-05-04,inactive,2026-05-15
+CL-0056,LD-0223,Greenline Logistics #57,South,2026-04-23,active,2026-06-20
+CL-0057,LD-0226,Northfield Traders #58,South,2026-04-12,active,2026-06-29
+CL-0058,LD-0227,Ironwood Wholesale #59,South,2026-04-13,active,2026-06-22
+CL-0059,LD-0230,Summit Outfitters #60,South,2026-04-29,active,2026-06-24
+CL-0060,LD-0232,Greenline Logistics #61,South,2026-05-01,active,2026-06-27
+CL-0061,LD-0233,Stonegate Distribution #62,South,2026-05-01,active,2026-06-25
+CL-0062,LD-0235,Brightline Retailers #63,South,2026-04-07,active,2026-06-25
+CL-0063,LD-0237,Blue Harbor Retail #64,South,2026-05-06,active,2026-06-26
+CL-0064,LD-0238,Stonegate Distribution #65,South,2026-04-12,inactive,2026-04-30
+CL-0065,LD-0241,Northfield Traders #66,South,2026-04-04,active,2026-06-26
+CL-0066,LD-0245,Harborview Foods #67,South,2026-04-27,active,2026-06-20
+CL-0067,LD-0247,Coastal Ridge Traders #68,South,2026-04-29,active,2026-06-27
+CL-0068,LD-0250,Riverside Wholesale #69,South,2026-04-07,inactive,2026-05-04
+CL-0069,LD-0265,Cedar & Co Supplies #70,South,2026-04-12,active,2026-06-27
+CL-0070,LD-0269,Maple Street Goods #71,South,2026-04-26,active,2026-06-29
+CL-0071,LD-0271,Brightline Retailers #72,South,2026-04-15,active,2026-06-20
+CL-0072,LD-0272,Coastal Ridge Traders #73,South,2026-04-12,active,2026-06-21
+CL-0073,LD-0273,Ironwood Wholesale #74,South,2026-04-27,active,2026-06-22
+CL-0074,LD-0274,Brightline Retailers #75,South,2026-04-18,active,2026-06-24
+CL-0075,LD-0275,Coastal Ridge Traders #76,South,2026-05-06,active,2026-06-23
+CL-0076,LD-0276,Riverside Wholesale #77,South,2026-05-06,inactive,2026-05-22
+CL-0077,LD-0277,Stonegate Distribution #78,South,2026-04-16,active,2026-06-26
+CL-0078,LD-0278,Willowbrook Traders #79,South,2026-04-27,active,2026-06-20
+CL-0079,LD-0279,Ironwood Wholesale #80,South,2026-04-29,active,2026-06-29
+CL-0080,LD-0280,Clearwater Mercantile #81,South,2026-04-27,active,2026-06-27
+CL-0081,LD-0281,Fieldstone Supply Co #82,South,2026-04-24,active,2026-06-28
+CL-0082,LD-0282,Maple Street Goods #83,South,2026-05-04,active,2026-06-23
+CL-0083,LD-0283,Blue Harbor Retail #84,South,2026-04-30,active,2026-06-26
+CL-0084,LD-0284,Fieldstone Supply Co #85,South,2026-04-14,active,2026-06-26
+CL-0085,LD-0285,Riverside Wholesale #86,South,2026-04-19,active,2026-06-20
+CL-0086,LD-0286,Cedar & Co Supplies #87,South,2026-04-17,active,2026-06-25
+CL-0087,LD-0287,Coastal Ridge Traders #88,South,2026-04-17,inactive,2026-05-26
+CL-0088,LD-0288,Riverside Wholesale #89,South,2026-04-15,active,2026-06-26
+CL-0089,LD-0290,Stonegate Distribution #90,South,2026-06-08,active,2026-06-24
+CL-0090,LD-0292,Greenline Logistics #91,North,2026-05-29,active,2026-06-30
+CL-0091,,Fieldstone Supply Co #92,East,2025-11-28,active,2026-06-28
+CL-0092,,Greenline Logistics #93,South,2025-12-28,active,2026-06-29
+CL-0093,,Cedar & Co Supplies #94,North,2025-11-08,active,2026-06-26
+CL-0094,,Blue Harbor Retail #95,East,2025-12-06,active,2026-06-20
+CL-0095,,Riverside Wholesale #96,South,2025-09-10,active,2026-06-26
+CL-0096,,Summit Outfitters #97,South,2025-12-19,active,2026-06-22

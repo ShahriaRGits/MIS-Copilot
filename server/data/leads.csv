@@ -1,0 +1,304 @@
+lead_id,campaign_id,created_date,region,source,status
+LD-0001,CMP-001,2026-01-20,North,Paid Ad,converted
+LD-0002,CMP-001,2026-01-18,North,Paid Ad,converted
+LD-0003,CMP-001,2026-01-06,North,Paid Ad,qualified
+LD-0004,CMP-001,2026-01-09,North,Paid Ad,lost
+LD-0005,CMP-001,2026-01-21,North,Paid Ad,converted
+LD-0006,CMP-001,2026-01-08,North,Paid Ad,converted
+LD-0007,CMP-001,2026-01-27,North,Paid Ad,converted
+LD-0008,CMP-001,2026-01-02,North,Paid Ad,contacted
+LD-0009,CMP-001,2026-01-02,North,Paid Ad,converted
+LD-0010,CMP-001,2026-01-13,North,Paid Ad,contacted
+LD-0011,CMP-001,2026-01-07,North,Paid Ad,lost
+LD-0012,CMP-001,2026-01-19,North,Paid Ad,lost
+LD-0013,CMP-001,2026-02-11,North,Paid Ad,contacted
+LD-0014,CMP-001,2026-02-16,North,Paid Ad,qualified
+LD-0015,CMP-001,2026-02-21,North,Paid Ad,qualified
+LD-0016,CMP-001,2026-02-09,North,Paid Ad,new
+LD-0017,CMP-001,2026-02-24,North,Paid Ad,converted
+LD-0018,CMP-001,2026-02-09,North,Paid Ad,converted
+LD-0019,CMP-001,2026-02-14,North,Paid Ad,lost
+LD-0020,CMP-001,2026-02-13,North,Paid Ad,qualified
+LD-0021,CMP-001,2026-02-05,North,Paid Ad,qualified
+LD-0022,CMP-001,2026-03-03,North,Paid Ad,converted
+LD-0023,CMP-001,2026-03-28,North,Paid Ad,new
+LD-0024,CMP-001,2026-03-21,North,Paid Ad,contacted
+LD-0025,CMP-001,2026-03-22,North,Paid Ad,qualified
+LD-0026,CMP-001,2026-03-03,North,Paid Ad,qualified
+LD-0027,CMP-001,2026-03-20,North,Paid Ad,lost
+LD-0028,CMP-001,2026-04-17,North,Paid Ad,contacted
+LD-0029,CMP-001,2026-04-18,North,Paid Ad,lost
+LD-0030,CMP-001,2026-04-01,North,Paid Ad,converted
+LD-0031,CMP-001,2026-04-04,North,Paid Ad,converted
+LD-0032,CMP-001,2026-05-18,North,Paid Ad,converted
+LD-0033,CMP-001,2026-05-25,North,Paid Ad,converted
+LD-0034,CMP-001,2026-06-04,North,Paid Ad,contacted
+LD-0035,CMP-002,2026-01-06,South,Paid Ad,qualified
+LD-0036,CMP-002,2026-01-24,South,Paid Ad,lost
+LD-0037,CMP-002,2026-01-09,South,Paid Ad,lost
+LD-0038,CMP-002,2026-01-25,South,Paid Ad,contacted
+LD-0039,CMP-002,2026-01-04,South,Paid Ad,lost
+LD-0040,CMP-002,2026-01-10,South,Paid Ad,converted
+LD-0041,CMP-002,2026-01-17,South,Paid Ad,converted
+LD-0042,CMP-002,2026-01-05,South,Paid Ad,qualified
+LD-0043,CMP-002,2026-02-06,South,Paid Ad,qualified
+LD-0044,CMP-002,2026-02-25,South,Paid Ad,lost
+LD-0045,CMP-002,2026-02-01,South,Paid Ad,converted
+LD-0046,CMP-002,2026-02-16,South,Paid Ad,new
+LD-0047,CMP-002,2026-02-12,South,Paid Ad,lost
+LD-0048,CMP-002,2026-02-27,South,Paid Ad,converted
+LD-0049,CMP-002,2026-02-08,South,Paid Ad,new
+LD-0050,CMP-002,2026-02-19,South,Paid Ad,lost
+LD-0051,CMP-002,2026-02-03,South,Paid Ad,converted
+LD-0052,CMP-002,2026-03-27,South,Paid Ad,new
+LD-0053,CMP-002,2026-03-25,South,Paid Ad,qualified
+LD-0054,CMP-002,2026-03-05,South,Paid Ad,new
+LD-0055,CMP-002,2026-03-16,South,Paid Ad,lost
+LD-0056,CMP-002,2026-03-06,South,Paid Ad,contacted
+LD-0057,CMP-002,2026-03-28,South,Paid Ad,converted
+LD-0058,CMP-002,2026-03-07,South,Paid Ad,lost
+LD-0059,CMP-002,2026-03-25,South,Paid Ad,converted
+LD-0060,CMP-002,2026-04-07,South,Paid Ad,converted
+LD-0061,CMP-002,2026-04-13,South,Paid Ad,lost
+LD-0062,CMP-002,2026-04-21,South,Paid Ad,qualified
+LD-0063,CMP-002,2026-04-17,South,Paid Ad,qualified
+LD-0064,CMP-002,2026-04-08,South,Paid Ad,contacted
+LD-0065,CMP-002,2026-04-11,South,Paid Ad,new
+LD-0066,CMP-002,2026-04-18,South,Paid Ad,contacted
+LD-0067,CMP-002,2026-04-08,South,Paid Ad,new
+LD-0068,CMP-002,2026-05-23,South,Paid Ad,converted
+LD-0069,CMP-002,2026-05-08,South,Paid Ad,new
+LD-0070,CMP-002,2026-05-02,South,Paid Ad,lost
+LD-0071,CMP-002,2026-05-03,South,Paid Ad,qualified
+LD-0072,CMP-002,2026-05-09,South,Paid Ad,converted
+LD-0073,CMP-002,2026-05-07,South,Paid Ad,qualified
+LD-0074,CMP-002,2026-05-24,South,Paid Ad,lost
+LD-0075,CMP-002,2026-05-19,South,Paid Ad,converted
+LD-0076,CMP-002,2026-06-08,South,Paid Ad,converted
+LD-0077,CMP-002,2026-06-26,South,Paid Ad,qualified
+LD-0078,CMP-002,2026-06-04,South,Paid Ad,new
+LD-0079,CMP-002,2026-06-14,South,Paid Ad,qualified
+LD-0080,CMP-002,2026-06-14,South,Paid Ad,qualified
+LD-0081,CMP-002,2026-06-24,South,Paid Ad,new
+LD-0082,CMP-002,2026-06-21,South,Paid Ad,lost
+LD-0083,CMP-002,2026-06-04,South,Paid Ad,new
+LD-0084,CMP-003,2026-01-24,East,Email Signup,contacted
+LD-0085,CMP-003,2026-01-28,East,Email Signup,new
+LD-0086,CMP-003,2026-01-07,East,Email Signup,contacted
+LD-0087,CMP-003,2026-01-15,East,Email Signup,new
+LD-0088,CMP-003,2026-01-06,East,Email Signup,contacted
+LD-0089,CMP-003,2026-01-08,East,Email Signup,
+LD-0090,CMP-003,2026-01-03,East,Email Signup,qualified
+LD-0091,CMP-003,2026-01-28,East,Email Signup,lost
+LD-0092,CMP-003,2026-01-04,East,Email Signup,new
+LD-0093,CMP-003,2026-01-18,East,Email Signup,converted
+LD-0094,CMP-003,2026-01-03,East,Email Signup,lost
+LD-0095,CMP-003,2026-02-28,East,Email Signup,contacted
+LD-0096,CMP-003,2026-02-14,East,Email Signup,qualified
+LD-0097,CMP-003,2026-02-07,East,Email Signup,lost
+LD-0098,CMP-003,2026-02-02,East,Email Signup,contacted
+LD-0099,CMP-003,2026-02-01,East,Email Signup,lost
+LD-0100,CMP-003,2026-02-09,East,Email Signup,lost
+LD-0101,CMP-003,2026-02-26,East,Email Signup,qualified
+LD-0102,CMP-003,2026-02-14,East,Email Signup,converted
+LD-0103,CMP-003,2026-02-24,East,Email Signup,lost
+LD-0104,CMP-003,2026-02-18,East,Email Signup,converted
+LD-0105,CMP-003,2026-03-16,East,Email Signup,contacted
+LD-0106,CMP-003,2026-03-10,East,Email Signup,contacted
+LD-0107,CMP-003,2026-03-02,East,Email Signup,converted
+LD-0108,CMP-003,2026-03-18,East,Email Signup,new
+LD-0109,CMP-003,2026-03-11,East,Email Signup,new
+LD-0110,CMP-003,2026-03-19,East,Email Signup,qualified
+LD-0111,CMP-003,2026-03-28,East,Email Signup,qualified
+LD-0112,CMP-003,2026-03-02,East,Email Signup,lost
+LD-0113,CMP-003,2026-03-03,East,Email Signup,lost
+LD-0114,CMP-003,2026-03-03,East,Email Signup,converted
+LD-0115,CMP-003,2026-03-22,East,Email Signup,lost
+LD-0116,CMP-003,2026-04-13,East,Email Signup,new
+LD-0117,CMP-003,2026-04-19,East,Email Signup,contacted
+LD-0118,CMP-003,2026-04-20,East,Email Signup,new
+LD-0119,CMP-003,2026-04-03,East,Email Signup,qualified
+LD-0120,CMP-003,2026-04-19,East,Email Signup,converted
+LD-0121,CMP-003,2026-04-11,East,Email Signup,lost
+LD-0122,CMP-003,2026-04-07,East,Email Signup,converted
+LD-0123,CMP-003,2026-04-11,East,Email Signup,contacted
+LD-0124,CMP-003,2026-04-13,East,Email Signup,new
+LD-0125,CMP-003,2026-04-21,East,Email Signup,contacted
+LD-0126,CMP-003,2026-04-11,East,Email Signup,lost
+LD-0127,CMP-003,2026-05-03,East,Email Signup,new
+LD-0128,CMP-003,2026-05-20,East,Email Signup,lost
+LD-0129,CMP-003,2026-05-04,East,Email Signup,new
+LD-0130,CMP-003,2026-05-07,East,Email Signup,qualified
+LD-0131,CMP-003,2026-05-05,East,Email Signup,lost
+LD-0132,CMP-003,2026-05-03,East,Email Signup,lost
+LD-0133,CMP-003,2026-05-12,East,Email Signup,contacted
+LD-0134,CMP-003,2026-05-15,East,Email Signup,converted
+LD-0135,CMP-003,2026-05-23,East,Email Signup,contacted
+LD-0136,CMP-003,2026-05-26,East,Email Signup,converted
+LD-0137,CMP-003,2026-05-01,East,Email Signup,converted
+LD-0138,CMP-003,2026-05-18,East,Email Signup,contacted
+LD-0139,CMP-003,2026-06-22,East,Email Signup,new
+LD-0140,CMP-003,2026-06-05,East,Email Signup,contacted
+LD-0141,CMP-003,2026-06-04,East,Email Signup,converted
+LD-0142,CMP-003,2026-06-05,East,Email Signup,contacted
+LD-0143,CMP-003,2026-06-20,East,Email Signup,contacted
+LD-0144,CMP-003,2026-06-11,East,Email Signup,contacted
+LD-0145,CMP-003,2026-06-21,East,Email Signup,lost
+LD-0146,CMP-003,2026-06-17,East,Email Signup,qualified
+LD-0147,CMP-003,2026-06-28,East,Email Signup,new
+LD-0148,CMP-003,2026-06-21,East,Email Signup,qualified
+LD-0149,CMP-003,2026-06-09,East,Email Signup,new
+LD-0150,CMP-003,2026-06-11,East,Email Signup,converted
+LD-0151,CMP-004,2026-01-21,West,Referral,lost
+LD-0152,CMP-004,2026-01-06,West,Referral,converted
+LD-0153,CMP-004,2026-01-18,West,Referral,converted
+LD-0154,CMP-004,2026-01-18,West,Referral,new
+LD-0155,CMP-004,2026-01-03,West,Referral,lost
+LD-0156,CMP-004,2026-01-23,West,Referral,lost
+LD-0157,CMP-004,2026-01-18,West,Referral,new
+LD-0158,CMP-004,2026-01-12,West,Referral,converted
+LD-0159,CMP-004,2026-02-05,West,Referral,qualified
+LD-0160,CMP-004,2026-02-02,West,Referral,contacted
+LD-0161,CMP-004,2026-02-26,West,Referral,lost
+LD-0162,CMP-004,2026-02-02,West,Referral,lost
+LD-0163,CMP-004,2026-02-07,West,Referral,converted
+LD-0164,CMP-004,2026-02-22,West,Referral,
+LD-0165,CMP-004,2026-02-25,West,Referral,converted
+LD-0166,CMP-004,2026-03-28,West,Referral,qualified
+LD-0167,CMP-004,2026-03-20,West,Referral,converted
+LD-0168,CMP-004,2026-03-08,West,Referral,lost
+LD-0169,CMP-004,2026-03-26,West,Referral,converted
+LD-0170,CMP-004,2026-03-14,West,Referral,new
+LD-0171,CMP-004,2026-03-24,West,Referral,lost
+LD-0172,CMP-004,2026-04-26,West,Referral,lost
+LD-0173,CMP-004,2026-04-26,West,Referral,converted
+LD-0174,CMP-004,2026-04-24,West,Referral,
+LD-0175,CMP-004,2026-04-09,West,Referral,contacted
+LD-0176,CMP-004,2026-04-23,West,Referral,new
+LD-0177,CMP-004,2026-04-28,West,Referral,new
+LD-0178,CMP-004,2026-05-16,West,Referral,contacted
+LD-0179,CMP-004,2026-05-27,West,Referral,lost
+LD-0180,CMP-004,2026-05-12,West,Referral,contacted
+LD-0181,CMP-004,2026-05-26,West,Referral,lost
+LD-0182,CMP-004,2026-05-08,West,Referral,new
+LD-0183,CMP-004,2026-05-07,West,Referral,qualified
+LD-0184,CMP-004,2026-05-09,West,Referral,lost
+LD-0185,CMP-004,2026-06-25,West,Referral,contacted
+LD-0186,CMP-004,2026-06-21,West,Referral,qualified
+LD-0187,CMP-004,2026-06-22,West,Referral,lost
+LD-0188,CMP-004,2026-06-18,West,Referral,contacted
+LD-0189,CMP-004,2026-06-01,West,Referral,new
+LD-0190,CMP-004,2026-06-09,West,Referral,contacted
+LD-0191,CMP-004,2026-06-09,West,Referral,new
+LD-0192,CMP-005,2026-03-20,North,Paid Ad,qualified
+LD-0193,CMP-005,2026-03-24,North,Paid Ad,converted
+LD-0194,CMP-005,2026-03-14,North,Paid Ad,converted
+LD-0195,CMP-005,2026-03-17,North,Paid Ad,new
+LD-0196,CMP-005,2026-03-19,North,Paid Ad,contacted
+LD-0197,CMP-005,2026-03-02,North,Paid Ad,converted
+LD-0198,CMP-005,2026-03-01,North,Paid Ad,qualified
+LD-0199,CMP-005,2026-03-26,North,Paid Ad,qualified
+LD-0200,CMP-005,2026-03-24,North,Paid Ad,lost
+LD-0201,CMP-005,2026-03-24,North,Paid Ad,converted
+LD-0202,CMP-005,2026-04-12,North,Paid Ad,qualified
+LD-0203,CMP-005,2026-04-22,North,Paid Ad,lost
+LD-0204,CMP-005,2026-04-20,North,Paid Ad,contacted
+LD-0205,CMP-005,2026-04-28,North,Paid Ad,new
+LD-0206,CMP-005,2026-04-10,North,Paid Ad,qualified
+LD-0207,CMP-005,2026-04-22,North,Paid Ad,qualified
+LD-0208,CMP-005,2026-04-13,North,Paid Ad,converted
+LD-0209,CMP-005,2026-04-18,North,Paid Ad,new
+LD-0210,CMP-006,2026-04-14,South,Email Signup,converted
+LD-0211,CMP-006,2026-04-13,South,Email Signup,converted
+LD-0212,CMP-006,2026-04-06,South,Email Signup,converted
+LD-0213,CMP-006,2026-04-10,South,Email Signup,qualified
+LD-0214,CMP-006,2026-04-27,South,Email Signup,new
+LD-0215,CMP-006,2026-04-10,South,Email Signup,contacted
+LD-0216,CMP-006,2026-04-26,South,Email Signup,converted
+LD-0217,CMP-006,2026-04-21,South,Email Signup,contacted
+LD-0218,CMP-006,2026-04-15,South,Email Signup,qualified
+LD-0219,CMP-006,2026-04-07,South,Email Signup,qualified
+LD-0220,CMP-006,2026-04-26,South,Email Signup,lost
+LD-0221,CMP-006,2026-04-26,South,Email Signup,converted
+LD-0222,CMP-006,2026-04-22,South,Email Signup,new
+LD-0223,CMP-006,2026-04-17,South,Email Signup,converted
+LD-0224,CMP-006,2026-04-20,South,Email Signup,contacted
+LD-0225,CMP-006,2026-04-27,South,Email Signup,lost
+LD-0226,CMP-006,2026-04-08,South,Email Signup,converted
+LD-0227,CMP-006,2026-04-08,South,Email Signup,converted
+LD-0228,CMP-006,2026-04-05,South,Email Signup,new
+LD-0229,CMP-006,2026-04-08,South,Email Signup,lost
+LD-0230,CMP-006,2026-04-20,South,Email Signup,converted
+LD-0231,CMP-006,2026-04-03,South,Email Signup,qualified
+LD-0232,CMP-006,2026-04-21,South,Email Signup,converted
+LD-0233,CMP-006,2026-04-23,South,Email Signup,converted
+LD-0234,CMP-006,2026-04-16,South,Email Signup,qualified
+LD-0235,CMP-006,2026-04-05,South,Email Signup,converted
+LD-0236,CMP-006,2026-04-01,South,Email Signup,lost
+LD-0237,CMP-006,2026-04-28,South,Email Signup,converted
+LD-0238,CMP-006,2026-04-04,South,Email Signup,converted
+LD-0239,CMP-006,2026-04-08,South,Email Signup,contacted
+LD-0240,CMP-006,2026-04-23,South,Email Signup,qualified
+LD-0241,CMP-006,2026-04-02,South,Email Signup,converted
+LD-0242,CMP-006,2026-04-28,South,Email Signup,new
+LD-0243,CMP-006,2026-04-05,South,Email Signup,
+LD-0244,CMP-006,2026-04-22,South,Email Signup,qualified
+LD-0245,CMP-006,2026-04-18,South,Email Signup,converted
+LD-0246,CMP-006,2026-04-25,South,Email Signup,lost
+LD-0247,CMP-006,2026-04-20,South,Email Signup,converted
+LD-0248,CMP-006,2026-04-17,South,Email Signup,qualified
+LD-0249,CMP-006,2026-04-18,South,Email Signup,qualified
+LD-0250,CMP-006,2026-04-06,South,Email Signup,converted
+LD-0251,CMP-006,2026-04-16,South,Email Signup,qualified
+LD-0252,CMP-006,2026-04-25,South,Email Signup,contacted
+LD-0253,CMP-006,2026-04-21,South,Email Signup,contacted
+LD-0254,CMP-006,2026-04-25,South,Email Signup,qualified
+LD-0255,CMP-006,2026-04-21,South,Email Signup,contacted
+LD-0256,CMP-006,2026-04-15,South,Email Signup,new
+LD-0257,CMP-006,2026-04-10,South,Email Signup,contacted
+LD-0258,CMP-006,2026-04-11,South,Email Signup,contacted
+LD-0259,CMP-006,2026-04-18,South,Email Signup,new
+LD-0260,CMP-006,2026-04-05,South,Email Signup,contacted
+LD-0261,CMP-006,2026-04-23,South,Email Signup,contacted
+LD-0262,CMP-006,2026-04-07,South,Email Signup,new
+LD-0263,CMP-006,2026-04-14,South,Email Signup,contacted
+LD-0264,CMP-006,2026-04-15,South,Email Signup,qualified
+LD-0265,CMP-006,2026-04-07,South,Email Signup,converted
+LD-0266,CMP-006,2026-04-13,South,Email Signup,lost
+LD-0267,CMP-006,2026-04-19,South,Email Signup,lost
+LD-0268,CMP-006,2026-04-01,South,Email Signup,lost
+LD-0269,CMP-006,2026-04-25,South,Email Signup,converted
+LD-0270,CMP-006,2026-04-16,South,Email Signup,new
+LD-0271,CMP-006,2026-04-12,South,Email Signup,converted
+LD-0272,CMP-006,2026-04-10,South,Email Signup,converted
+LD-0273,CMP-006,2026-04-25,South,Email Signup,converted
+LD-0274,CMP-006,2026-04-13,South,Email Signup,converted
+LD-0275,CMP-006,2026-04-28,South,Email Signup,converted
+LD-0276,CMP-006,2026-04-27,South,Email Signup,converted
+LD-0277,CMP-006,2026-04-14,South,Email Signup,converted
+LD-0278,CMP-006,2026-04-18,South,Email Signup,converted
+LD-0279,CMP-006,2026-04-24,South,Email Signup,converted
+LD-0280,CMP-006,2026-04-24,South,Email Signup,converted
+LD-0281,CMP-006,2026-04-18,South,Email Signup,converted
+LD-0282,CMP-006,2026-04-26,South,Email Signup,converted
+LD-0283,CMP-006,2026-04-20,South,Email Signup,converted
+LD-0284,CMP-006,2026-04-08,South,Email Signup,converted
+LD-0285,CMP-006,2026-04-16,South,Email Signup,converted
+LD-0286,CMP-006,2026-04-08,South,Email Signup,converted
+LD-0287,CMP-006,2026-04-09,South,Email Signup,converted
+LD-0288,CMP-006,2026-04-14,South,Email Signup,converted
+LD-0289,,2026-04-01,West,Organic Search,contacted
+LD-0290,,2026-06-06,South,Organic Search,converted
+LD-0291,,2026-05-18,West,Organic Search,new
+LD-0292,,2026-05-19,North,Organic Search,converted
+LD-0293,,2026-06-14,West,Organic Search,new
+LD-0294,,2026-02-02,East,Organic Search,contacted
+LD-0295,,2026-02-15,West,Organic Search,contacted
+LD-0296,,2026-03-25,West,Organic Search,lost
+LD-0297,,2026-03-27,North,Organic Search,new
+LD-0298,,2026-06-18,East,Organic Search,new
+LD-0299,,2026-02-21,North,Organic Search,new
+LD-0300,,2026-01-08,North,Organic Search,new
+LD-0301,,2026-05-05,West,Organic Search,contacted
+LD-0302,,2026-06-04,South,Organic Search,qualified
+LD-0011,CMP-001,2026-01-07,North,Paid Ad,lost
