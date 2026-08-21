@@ -56,6 +56,6 @@
 - [x] Add a concrete generic Node deployment configuration file for GitHub-connected hosting
 - [x] Create and verify an upload package that excludes ignored, build, runtime, and secret files
 
-- [ ] Prepare a lossless Git-based upload path that avoids GitHub browser file-count limits
-- [ ] Create browser-friendly upload batches only as a fallback, without changing project contents
-- [ ] Validate complete file retention and exclusion of generated, runtime, and secret artifacts
+- [x] Prepare a lossless Git-based upload path that avoids GitHub browser file-count limits
+- [x] Create browser-friendly upload batches only as a fallback, without changing project contents
+- [x] Validate complete file retention and exclusion of generated, runtime, and secret artifacts
