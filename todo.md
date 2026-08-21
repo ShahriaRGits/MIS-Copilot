@@ -60,12 +60,12 @@
 - [x] Create browser-friendly upload batches only as a fallback, without changing project contents
 - [x] Validate complete file retention and exclusion of generated, runtime, and secret artifacts
 
-- [ ] Confirm authenticated GitHub account and repository naming availability for MIS Copilot
-- [ ] Create the private GitHub repository for MIS Copilot
-- [ ] Push the complete verified project without generated or secret artifacts
-- [ ] Verify remote file count, default branch, visibility, and CI configuration
-- [ ] Prepare deployment handoff and identify any required user secrets or hosting authorization
+- [x] Confirm authenticated GitHub account and repository naming availability for MIS Copilot
+- [x] Create the private GitHub repository for MIS Copilot
+- [x] Push the complete verified project without generated or secret artifacts
+- [x] Verify remote file count, default branch, visibility, and CI configuration
+- [x] Prepare deployment handoff and identify any required user secrets or hosting authorization
 
-- [ ] Fix GitHub Actions dependency bootstrap so CI can find pnpm on a clean runner
-- [ ] Remove generated Manus runtime files from the GitHub repository while preserving app functionality
-- [ ] Re-run GitHub Actions and verify the remote tree contains no generated runtime artifacts
+- [x] Fix GitHub Actions dependency bootstrap so CI can find pnpm on a clean runner
+- [x] Remove generated Manus runtime files from the GitHub repository while preserving app functionality
+- [x] Re-run GitHub Actions and verify the remote tree contains no generated runtime artifacts
