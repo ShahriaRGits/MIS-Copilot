@@ -39,6 +39,10 @@ CSV fixtures → validation → deterministic KPIs → rule-based anomalies
 
 The AI is an interpreter, not a calculator. Deterministic code owns all numerical values. If the model is unavailable or a response fails guardrails, the application returns a clearly labelled deterministic fallback rather than displaying unchecked text.
 
+## GitHub and hosting
+
+The repository is GitHub-ready and includes a CI workflow under `.github/workflows/ci.yml`. GitHub Pages cannot host the complete MVP because the application requires a Node.js server for tRPC procedures, deterministic analytics, decision logging, and server-side AI calls. Use GitHub for source control and CI, then connect the repository to a Node-compatible runtime. See [`docs/GITHUB_HOSTING.md`](docs/GITHUB_HOSTING.md) for upload commands, secret handling, and deployment configuration.
+
 ## KPI policy notes
 
 Blank CSV cells are normalized to canonical `null` values during ingestion. The MVP excludes blocking records from affected calculations and keeps warnings visible with their caveat. Churn uses an explicit MVP snapshot policy: the denominator is the number of clients whose status is active and whose signup date precedes the reporting period. CAC is labelled a **proxy** because the supplied campaign table does not provide a complete conversion-to-campaign attribution key; the MVP uses campaign cost divided by campaign `leads_generated` and displays that denominator directly.

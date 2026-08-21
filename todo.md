@@ -46,3 +46,12 @@
 - [x] Add Vitest coverage for required-rationale decision validation and accept/edit/reject cases
 - [x] Run and document a browser-executed end-to-end test through anomaly selection, insight, recommendation, rationale, and decision logging
 - [x] Create the final project checkpoint after the validated todo file is fully complete
+
+- [x] Audit GitHub repository and hosting compatibility, including secret exposure and runtime requirements
+- [x] Add GitHub repository metadata, issue templates, contribution guidance, and CI workflow
+- [x] Add GitHub-compatible deployment configuration and hosting documentation
+- [x] Validate the GitHub package with typecheck, tests, build, and secret scans
+- [x] Package the repository for upload without publishing or creating a remote repository
+
+- [x] Add a concrete generic Node deployment configuration file for GitHub-connected hosting
+- [x] Create and verify an upload package that excludes ignored, build, runtime, and secret files
