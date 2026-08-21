@@ -59,3 +59,9 @@
 - [x] Prepare a lossless Git-based upload path that avoids GitHub browser file-count limits
 - [x] Create browser-friendly upload batches only as a fallback, without changing project contents
 - [x] Validate complete file retention and exclusion of generated, runtime, and secret artifacts
+
+- [ ] Confirm authenticated GitHub account and repository naming availability for MIS Copilot
+- [ ] Create the private GitHub repository for MIS Copilot
+- [ ] Push the complete verified project without generated or secret artifacts
+- [ ] Verify remote file count, default branch, visibility, and CI configuration
+- [ ] Prepare deployment handoff and identify any required user secrets or hosting authorization
