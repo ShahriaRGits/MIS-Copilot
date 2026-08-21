@@ -69,3 +69,10 @@
 - [x] Fix GitHub Actions dependency bootstrap so CI can find pnpm on a clean runner
 - [x] Remove generated Manus runtime files from the GitHub repository while preserving app functionality
 - [x] Re-run GitHub Actions and verify the remote tree contains no generated runtime artifacts
+
+- [x] Verify the landing page on the managed live preview and confirm the root route
+- [x] Diagnose GitHub repository versus hosted-runtime behavior
+- [x] Validate the correct running website URL or identify the remaining publish action
+
+- [x] Document that GitHub repository storage is separate from running Node hosting and state the required deployment action
+- [x] Record the verified managed preview URL and exact publish step for the user handoff
